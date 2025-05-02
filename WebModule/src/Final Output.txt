@@ -1,0 +1,11 @@
+[2025-05-01T19:40:59.026851+05:30] [GF 7.0.21] [INFO] [] [jakarta.enterprise.logging.stdout] [tid: _ThreadID=36 _ThreadName=http-listener-1(3)] [levelValue: 800] [[
+  Service is working on process with com.deltacodex.ee.CDI.Service@460cf208]]
+
+[2025-05-01T19:40:59.039851+05:30] [GF 7.0.21] [INFO] [] [jakarta.enterprise.logging.stdout] [tid: _ThreadID=36 _ThreadName=http-listener-1(3)] [levelValue: 800] [[
+  Email Notifier Sending Email... New Email Sent! Tharindu Chanaka tharinduchanaka6@gmail.com]]
+
+[2025-05-01T19:40:59.042851+05:30] [GF 7.0.21] [INFO] [] [jakarta.enterprise.logging.stdout] [tid: _ThreadID=36 _ThreadName=http-listener-1(3)] [levelValue: 800] [[
+  Text Logged :New Email Sent! tharinduchanaka6@gmail.com]]
+
+[2025-05-01T19:40:59.042851+05:30] [GF 7.0.21] [INFO] [] [jakarta.enterprise.logging.stdout] [tid: _ThreadID=36 _ThreadName=http-listener-1(3)] [levelValue: 800] [[
+  Logged :New Email Sent! tharinduchanaka6@gmail.com]]
